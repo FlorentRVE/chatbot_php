@@ -7,6 +7,7 @@ var botmanWidget = {
   placeholderText: "Envoyer votre message",
   mainColor: "#0EA5E9",
   bubbleBackground: "#d3ebff",
+  headerTextColor: "white",
   aboutText: "",
   bubbleAvatarUrl:
     "https://media.licdn.com/dms/image/C4D0BAQEJu8tjhvD0pg/company-logo_200_200/0/1641880440715/sodiparc_logo?e=2147483647&v=beta&t=MJDfFE8PRmHeauQ0bU92nNT6TRwBc8roaRY1pmNZb_0",
