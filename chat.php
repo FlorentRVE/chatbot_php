@@ -32,7 +32,7 @@ $botman->hears('Question sur les congés', function (BotMan $bot) {
         ');
 });
 
-$botman->hears('Quels sont les différents types de congés disponibles ', function (BotMan $bot) {
+$botman->hears('Quels sont les différents types de congés disponibles', function (BotMan $bot) {
     $bot->reply('Les différents types de congés disponibles sont les congés payés, les congés maladie, les congés maternité/paternité, les congés sans solde, les congés pour événements familiaux, etc. <br> <br>');
 });
 
