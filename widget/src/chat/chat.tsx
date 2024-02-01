@@ -153,6 +153,7 @@ export default class Chat extends Component<IChatProps, IChatState> {
     sendOnFocus = () => {
         if (this.input.value.length > 0) { // Modifié pour ne pas envoyer de message vide
             this.say(this.input.value);
+            this.input.value = "";
         }
     }
 
