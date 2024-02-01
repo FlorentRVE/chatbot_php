@@ -1,0 +1,8 @@
+{
+    "require": {
+        "phpoffice/phpexcel": "^1.8",
+        "faisalman/simple-excel-php": "^0.3.15",
+        "botman/botman": "^2.8",
+        "botman/driver-web": "^1.5"
+    }
+}
